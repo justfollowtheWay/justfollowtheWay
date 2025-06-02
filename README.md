@@ -8,14 +8,9 @@
 
 🎓 Embedded Systems / Radar Signal Processing / Autonomous Driving
 
----
-
 ### 🔗 My portfolio is available 👉 [**on this site**](https://github.com/justfollowtheWay/your-korean-portfolio)
 
 ---
-
-🇰🇷 👉 [포트폴리오 보기](https://github.com/justfollowtheWay/your-korean-portfolio)
-
 
 ## 🔧 Key Projects
 
