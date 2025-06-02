@@ -17,8 +17,6 @@
   → Frenet-based trajectory planner and controller implementation
 
 ## 📫 How to reach me
-
-📬  
 <a href="mailto:bu8503@naver.com">
   <img src="https://img.shields.io/badge/achieve21ct@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
