@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Sangwoo Park
 
-<!--
-**justfollowtheWay/justfollowtheWay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Embedded Systems / Radar Signal Processing / Autonomous Driving
 
-Here are some ideas to get you started:
+## 🔧 Key Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...d
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📡 **Multi-person Heartbeat Detection with Radar**  
+  → Submitted to peer-reviewed conference. Mobility-optimized radar signal processing system
+
+- 🔐 **OTA Secure Bootloader Development**  
+  → Firmware integrity check using SHA-256, designed for automotive ECUs
+
+- 🧪 **Black-box Testing with CANoe**  
+  → CAPL-scripted fault injection and automated validation framework
+
+- 🚗 **Autonomous Driving Simulation (CarMaker + Simulink)**  
+  → Frenet-based trajectory planner and controller implementation
+
+## 📫 Contact Me
+- Email: your_email@example.com
+- GitHub: [github.com/Sangwoo78](https://github.com/Sangwoo78)
