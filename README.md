@@ -8,7 +8,7 @@
 
 🔭 Embedded Systems / Radar Signal Processing / Autonomous Driving
 
-### 🔗 Explore my studies and projects [**on this site**](https://github.com/justfollowtheWay/your-korean-portfolio) — your interest is welcome 😊
+### 🔗 Explore my studies and projects [**on this site**](https://candied-cap-ec4.notion.site/Portfolio-Park-Sang-Woo-200cf9c1e8a2807c8119fbad0b8127fe?source=copy_link) — your interest is welcome 😊
 
 ---
 
