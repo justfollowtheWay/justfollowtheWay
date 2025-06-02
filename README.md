@@ -16,6 +16,9 @@
 - 🚗 **Autonomous Driving Simulation (CarMaker + Simulink)**  
   → Frenet-based trajectory planner and controller implementation
 
-## 📫 Contact Me
-- Email: your_email@example.com
-- GitHub: [github.com/Sangwoo78](https://github.com/Sangwoo78)
+## 📫 How to reach me
+
+<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="20" style="vertical-align:middle;">  
+<a href="mailto:bu8503@naver.com">
+  <img src="https://img.shields.io/badge/your_email@example.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+</a>
