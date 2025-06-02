@@ -4,7 +4,7 @@
 
 ## 🔧 Key Projects
 
-- 📡 **Multi-person Heartbeat Detection with Radar**  
+- 📡 **Multi-Person Vital Sign Detection Using FMCW Radar In Mobility System**  
   → Submitted to peer-reviewed conference. Mobility-optimized radar signal processing system
 
 - 🔐 **OTA Secure Bootloader Development**  
