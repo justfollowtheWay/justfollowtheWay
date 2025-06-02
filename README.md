@@ -1,6 +1,12 @@
 # 👋 Hi, I'm Sangwoo Park
 
+🌿 I'm the kind of person who sticks with tough problems until I find a solution.
+🌿 I bring a collaborative mindset and a consistently positive attitude to every team I work with.
+
+🎓I graduated with a bachelor's degree in Electronical Engineering from Seoul National University of Science and Technology.
 🎓 Embedded Systems / Radar Signal Processing / Autonomous Driving
+
+# 📫 한국어 포트폴리오
 
 ## 🔧 Key Projects
 
