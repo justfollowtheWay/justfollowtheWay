@@ -6,9 +6,9 @@
 
 🎓 I graduated with a bachelor's degree in Electronical Engineering from Seoul National University of Science and Technology.
 
-🎓 Embedded Systems / Radar Signal Processing / Autonomous Driving
+🔭 Embedded Systems / Radar Signal Processing / Autonomous Driving
 
-### 🔗 My portfolio is available 👉 [**on this site**](https://github.com/justfollowtheWay/your-korean-portfolio)
+### 🔗 Explore my studies and projects [**on this site**](https://github.com/justfollowtheWay/your-korean-portfolio) — your interest is welcome 😊
 
 ---
 
