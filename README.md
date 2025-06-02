@@ -1,13 +1,20 @@
 # 👋 Hi, I'm Sangwoo Park
-🇰🇷 👉 [한국어 포트폴리오 보기](https://github.com/justfollowtheWay/your-korean-portfolio)
 
 🌿 I'm the kind of person who sticks with tough problems until I find a solution.
 
 🌿 I bring a collaborative mindset and a consistently positive attitude to every team I work with.
 
-🎓I graduated with a bachelor's degree in Electronical Engineering from Seoul National University of Science and Technology.
+🎓 I graduated with a bachelor's degree in Electronical Engineering from Seoul National University of Science and Technology.
 
 🎓 Embedded Systems / Radar Signal Processing / Autonomous Driving
+
+---
+
+### 🔗 My portfolio is available 👉 [**on this site**](https://github.com/justfollowtheWay/your-korean-portfolio)
+
+---
+
+🇰🇷 👉 [포트폴리오 보기](https://github.com/justfollowtheWay/your-korean-portfolio)
 
 
 ## 🔧 Key Projects
