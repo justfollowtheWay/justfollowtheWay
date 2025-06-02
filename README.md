@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Sangwoo Park
+🇰🇷 👉 [한국어 포트폴리오 보기](https://github.com/justfollowtheWay/your-korean-portfolio)
 
 🌿 I'm the kind of person who sticks with tough problems until I find a solution.
 
@@ -7,6 +8,7 @@
 🎓I graduated with a bachelor's degree in Electronical Engineering from Seoul National University of Science and Technology.
 
 🎓 Embedded Systems / Radar Signal Processing / Autonomous Driving
+
 
 ## 🔧 Key Projects
 
@@ -19,7 +21,7 @@
 - 🧪 **[Black-box Testing with CANoe](https://github.com/justfollowtheWay/Blackbox_testing_automation)**  
   → CAPL-scripted fault injection and automated validation framework
 
-- 🚗 **[Autonomous Driving Simulation (CarMaker + Simulink)](https://github.com/justfollowtheWay/ADAS_motion_planning_control)**  
+- 🚗 **[Autonomous Driving Motion Control (CarMaker + Simulink)](https://github.com/justfollowtheWay/ADAS_motion_planning_control)**  
   → Frenet-based trajectory planner and controller implementation
 
 ## 📫 How to reach me
