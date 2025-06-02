@@ -18,7 +18,8 @@
 
 ## 📫 How to reach me
 
-<img src="https://cdn-icons-png.flaticon.com/512/561/561127.png" width="20" style="vertical-align:middle;">  
+📬  
 <a href="mailto:bu8503@naver.com">
-  <img src="https://img.shields.io/badge/your_email@example.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/achieve21ct@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
 </a>
+
