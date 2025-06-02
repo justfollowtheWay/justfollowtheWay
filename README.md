@@ -18,7 +18,7 @@
 
 ## 📫 How to reach me
 <a href="mailto:bu8503@naver.com">
-  <img src="https://img.shields.io/badge/bu8503@naver.com-EA4335?style=flat&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bu8503@naver.com-555555?style=flat&logo=minutemailer&logoColor=white"/>
 </a>
 
 
